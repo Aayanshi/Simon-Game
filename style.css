@@ -1,0 +1,49 @@
+
+body{
+    text-align: center;
+    /* background-color: black; */
+
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border : 7px solid black;
+    margin: 1.5rem;
+
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+/* this is individuall coloring */
+
+.re{
+    background-color: red;
+}
+
+.yel {
+    background-color: yellow;
+}
+
+.gre {
+    background-color: green;
+} 
+
+.pur{
+    background-color: blue;
+
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: orangered;
+}
+
